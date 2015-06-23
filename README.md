@@ -3,6 +3,10 @@
 
 ![tiny](http://www.dailygusta.com/Quads/i-QF6kJkH/0/X3/CA_04071513583840-X3.jpg)
 
+## Firmware
+
+Use the type 5 (DTFUHF 4ch/6ch) firmware image.
+
 ## BOM
 
 * [C1, C10, C13 - 0603 1μF](http://www.digikey.com/product-detail/en/0/1276-1946-1-ND)
