@@ -22,7 +22,7 @@ Use the type 5 (DTFUHF 4ch/6ch) firmware image.
 * [U1 - LFCN-490 (+)](http://www.minicircuits.com/products/filters_sm_low.shtml)
 * [U2 - RFM22SMD](http://www.ebay.com/itm/RFM22B-433Mhz-Wireless-Transceiver-from-HopeRF-/171728634731)
 * [U3 - ATMEGA328\_QFN](http://www.digikey.com/product-detail/en/0ATMEGA328P-15MZCT-ND/2477178)
-* [Y1 - 16MHz resonator](http://www.digikey.com/product-detail/en/0478-5420-1-ND/1987419)
+* [Y1 - 16MHz resonator](http://www.digikey.com/product-detail/en/0/478-5420-1-ND)
 
 ![Build Image](http://i.imgur.com/GGUzvQV.png)
 
